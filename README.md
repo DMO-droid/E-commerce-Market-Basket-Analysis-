@@ -41,4 +41,4 @@ Understanding customer purchasing behavior is essential for optimizing retail st
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/ecommerce-market-basket-analysis.git](https://github.com/your-username/ecommerce-market-basket-analysis.git)
+   git clone [https://github.com/DMO-droid/E-commerce-Market-Basket-Analysis-/tree/main)
